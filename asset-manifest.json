@@ -1,24 +1,16 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.98964c58.chunk.css",
-    "main.js": "/landing/static/js/main.0dd6c76c.chunk.js",
-    "main.js.map": "/landing/static/js/main.0dd6c76c.chunk.js.map",
+    "main.css": "/landing/static/css/main.fa975a50.chunk.css",
+    "main.js": "/landing/static/js/main.27a3aa1a.chunk.js",
+    "main.js.map": "/landing/static/js/main.27a3aa1a.chunk.js.map",
     "runtime~main.js": "/landing/static/js/runtime~main.d71efdcc.js",
     "runtime~main.js.map": "/landing/static/js/runtime~main.d71efdcc.js.map",
-    "static/js/2.fe3a57f0.chunk.js": "/landing/static/js/2.fe3a57f0.chunk.js",
-    "static/js/2.fe3a57f0.chunk.js.map": "/landing/static/js/2.fe3a57f0.chunk.js.map",
+    "static/js/2.bc4c1ed9.chunk.js": "/landing/static/js/2.bc4c1ed9.chunk.js",
+    "static/js/2.bc4c1ed9.chunk.js.map": "/landing/static/js/2.bc4c1ed9.chunk.js.map",
     "index.html": "/landing/index.html",
-    "precache-manifest.4d61812c478125f3f18369a5456d8eac.js": "/landing/precache-manifest.4d61812c478125f3f18369a5456d8eac.js",
+    "precache-manifest.06843f56b7d79ad7543fa51ea3ef6255.js": "/landing/precache-manifest.06843f56b7d79ad7543fa51ea3ef6255.js",
     "service-worker.js": "/landing/service-worker.js",
-    "static/css/main.98964c58.chunk.css.map": "/landing/static/css/main.98964c58.chunk.css.map",
-    "static/media/index.css": "/landing/static/media/VCR_OSD_MONO.5fcd6c65.ttf",
-    "static/media/bourleau.wav": "/landing/static/media/bourleau.0286cbd3.wav",
-    "static/media/cypres.wav": "/landing/static/media/cypres.2ebceb6c.wav",
-    "static/media/epicea.wav": "/landing/static/media/epicea.d9955afb.wav",
-    "static/media/fleur.wav": "/landing/static/media/fleur.f4999d95.wav",
-    "static/media/oak.wav": "/landing/static/media/oak.d9401bcd.wav",
-    "static/media/sapin.wav": "/landing/static/media/sapin.6ec25424.wav",
-    "static/media/sylvestre.wav": "/landing/static/media/sylvestre.7a7b433a.wav",
-    "static/media/time.wav": "/landing/static/media/time.43f47e7d.wav"
+    "static/css/main.fa975a50.chunk.css.map": "/landing/static/css/main.fa975a50.chunk.css.map",
+    "static/media/index.css": "/landing/static/media/VCR_OSD_MONO.5fcd6c65.ttf"
   }
 }
